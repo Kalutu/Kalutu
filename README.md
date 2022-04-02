@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kalutu
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on mail flameydannie@gmail.com
+- 👀 I’m in Computer Programming
+- 🌱 I’m Studying Computer Science at Technical University of Mombasa.
+- 📫 How to reach me on mail kalutudaniel@gmail.com
 
 <!---
 Kalutu/Kalutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
