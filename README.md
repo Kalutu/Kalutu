@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalutu
-- 👀 I’m in Computer Programming
+- 👀 I’m interested in Computer Programming
 - 🌱 I’m Studying Computer Science at Technical University of Mombasa.
 - 📫 How to reach me on mail kalutudaniel@gmail.com
 
