@@ -14,8 +14,8 @@ I specialize in designing and developing software applications that meet the spe
 
 
 ## Contact
-Email: kalutudaniel@gmail.com
-Contact: 0713118765
+- Email: kalutudaniel@gmail.com
+- Phone: 0713118765
 
 <!---
 Kalutu/Kalutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
