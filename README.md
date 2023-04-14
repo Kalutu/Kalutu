@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @Kalutu
-- 👀 I’m interested in Computer Programming
-- 🌱 I’m Studying Computer Science at Technical University of Mombasa.
-- 📫 How to reach me on mail kalutudaniel@gmail.com
+### Kalutu Daniel
+
+##About
+I specialize in designing and developing software applications that meet the specific needs of businesses and individuals. With a strong background in computer science and programming languages such as Java, C++ and JavaScript, I am committed to delivering high-quality software solutions that are innovative, reliable, and user-friendly.
+
+##Technologies
+- HTML
+- CSS
+- C
+- C++
+- C#
+- Javascript
+- Java
+
+
+##Contact
+Email: kalutudaniel@gmail.com
+Contact: 0713118765
 
 <!---
 Kalutu/Kalutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
