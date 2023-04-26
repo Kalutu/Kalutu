@@ -10,6 +10,8 @@ I specialize in designing and developing software applications that meet the spe
 - C++
 - C#
 - Javascript
+- React.js
+- Node.js
 - Java
 
 
