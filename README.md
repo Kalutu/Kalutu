@@ -6,13 +6,11 @@ I specialize in designing and developing software applications that meet the spe
 ## Technologies
 - HTML
 - CSS
+- Javascript
+- Java
 - C
 - C++
 - C#
-- Javascript
-- React.js
-- Node.js
-- Java
 
 
 ## Contact
