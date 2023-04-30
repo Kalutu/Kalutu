@@ -11,8 +11,6 @@ I specialize in designing and developing software applications that meet the spe
 - C
 - C++
 - C#
-- Scala
-
 
 ## Contact
 - Email: kalutudaniel@gmail.com
