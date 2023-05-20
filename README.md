@@ -4,8 +4,8 @@
 I specialize in designing and developing software applications that meet the specific needs of businesses and individuals. With a strong background in computer science and programming languages such as Java, C++ and JavaScript, I am committed to delivering high-quality software solutions that are innovative, reliable, and user-friendly.
 
 ## Technologies
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Javascript
 - Java
 - C
