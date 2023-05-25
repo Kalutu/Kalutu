@@ -1,16 +1,16 @@
 # Kalutu Daniel
 
 ## About
-I specialize in designing and developing software applications that meet the specific needs of businesses and individuals. With a strong background in computer science and programming languages such as Java, C++ and JavaScript, I am committed to delivering high-quality software solutions that are innovative, reliable, and user-friendly.
+I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications.
 
 ## Technologies
-- HTML5
-- CSS3
-- Javascript
-- Java
-- C
-- C++
-- C#
+- ![HTML5](html5_logo.png)
+- ![CSS3](css3_logo.png)
+- ![JavaScript](javascript_logo.png)
+- ![Java](java_logo.png)
+- ![C](c_logo.png)
+- ![C++](cplusplus_logo.png)
+- ![C#](csharp_logo.png)
 
 ## Contact
 - Email: kalutudaniel@gmail.com
