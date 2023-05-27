@@ -1,4 +1,4 @@
-# Kalutu Daniel
+# Hi 👋, Kalutu Here 
 
 ## About
 I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications.
@@ -16,9 +16,27 @@ I am a passionate software developer with a strong background in computer scienc
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" style="margin-right: 10px;" /></a>
 </div>
 
-## Contact
-- Email: kalutudaniel@gmail.com
-- Phone: +254 713 118 765
+## Connect with me
+<div>
+  <a href="mailto:kalutudaniel@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40px" height="40px" style="vertical-align: middle;" />
+    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">kalutudaniel@gmail.com</span>
+  </a>
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px" style="vertical-align: middle;" />
+    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">Kalutu Daniel</span>
+  </a>
+</div>
+<div>
+  <a href="https://twitter.com/kalutu_daniel" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" alt="Twitter" width="40px" height="40px" style="vertical-align: middle;" />
+    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">@kalutu_daniel</span>
+  </a>
+</div>
+
+
 
 <!---
 Kalutu/Kalutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
