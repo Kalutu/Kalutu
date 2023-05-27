@@ -4,17 +4,18 @@
 I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications.
 
 ## Technologies
-<div
-    ![HTML5](https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg)
-    ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-    ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-    ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-    ![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
-    ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-    ![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
-    ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-    ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="70px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50px" height="50px" style="margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" style="margin-right: 10px;" />
 </div>
+
 
 ## Contact
 - Email: kalutudaniel@gmail.com
