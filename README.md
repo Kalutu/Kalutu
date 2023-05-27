@@ -18,10 +18,10 @@ I am a passionate software developer with a strong background in computer scienc
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50px" height="50px" style="margin-right: 10px;" />
     </a>
     <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="65px" height="50px" style="margin-right: 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="50px" height="50px" style="margin-right: 10px;" />
     </a>
     <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60px" height="50px" style="margin-right: 20px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50px" height="50px" style="margin-right: 20px;" />
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50px" height="50px" style="margin-right: 10px;" />
@@ -33,6 +33,7 @@ I am a passionate software developer with a strong background in computer scienc
         <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" style="margin-right: 10px;" />
     </a>
 </div>
+
 
 ## Contact
 - Email: kalutudaniel@gmail.com
