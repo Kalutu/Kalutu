@@ -20,20 +20,20 @@ I am a passionate software developer with a strong background in computer scienc
 <div>
   <a href="mailto:kalutudaniel@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40px" height="40px" style="vertical-align: middle;" />
-    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">kalutudaniel@gmail.com</span>
   </a>
+    <span>kalutudaniel@gmail.com</span>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px" style="vertical-align: middle;" />
-    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">Kalutu Daniel</span>
   </a>
+    <span>Kalutu Daniel</span>
 </div>
 <div>
   <a href="https://twitter.com/kalutu_daniel" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" alt="Twitter" width="40px" height="40px" style="vertical-align: middle;" />
-    <span style="margin-left: 5px; vertical-align: middle; color: white; text-decoration: none; border-bottom: none; line-height: 1;">@kalutu_daniel</span>
   </a>
+     <span>@kalutu_daniel</span>
 </div>
 
 
