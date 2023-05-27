@@ -18,12 +18,6 @@ I am a passionate software developer with a strong background in computer scienc
 
 ## Connect with me
 <div>
-  <a href="mailto:kalutudaniel@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40px" height="40px" style="vertical-align: middle;" />
-  </a>
-    <span>kalutudaniel@gmail.com</span>
-</div>
-<div>
   <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px" style="vertical-align: middle;" />
   </a>
