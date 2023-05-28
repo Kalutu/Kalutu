@@ -23,16 +23,13 @@ I am a passionate software developer with a strong background in computer scienc
 
 ## Connect with me
 <div>
-  <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px" style="vertical-align: middle;" />
   </a>
-    <span>Kalutu Daniel</span>
-</div>
-<div>
-  <a href="https://twitter.com/kalutu_daniel" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
+
+  <a href="https://twitter.com/kalutu_daniel" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" alt="Twitter" width="40px" height="40px" style="vertical-align: middle;" />
   </a>
-     <span>@kalutu_daniel</span>
 </div>
 
 
