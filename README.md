@@ -18,7 +18,7 @@ I am a passionate software developer with a strong background in computer scienc
         <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png" alt="jQuery" width="50px" height="50px" /></a>
         <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50px" height="50px" /></a>
     </div>
-    <div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center; margin-top: 10px;">
         <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="65px" height="50px" /></a>
         <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60px" height="50px" /></a>
         <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50px" height="50px" /></a>
@@ -27,8 +27,6 @@ I am a passionate software developer with a strong background in computer scienc
         <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" /></a>
     </div>
 </div>
-
-
 
 ## Connect with me
 <div>
