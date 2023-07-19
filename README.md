@@ -31,15 +31,14 @@ I am a passionate software developer with a strong background in computer scienc
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalutu&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Connect with me
-<div>
-  <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" height="40px" style="vertical-align: middle;" />
-  </a>
+<a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="kalutu daniel" /></a>
+<a href="mailto:kalutudaniel@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="kalutu daniel" /></a>
+<a href="https://twitter.com/kalutudaniel" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="kalutu daniel Twitter" />
+</a>
 
-  <a href="https://twitter.com/kalutu_daniel" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" alt="Twitter" width="40px" height="40px" style="vertical-align: middle;" />
-  </a>
-</div>
+  <br>
+
 
 
 
