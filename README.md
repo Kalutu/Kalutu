@@ -33,7 +33,7 @@ I am a passionate software developer with a strong background in computer scienc
 ## Connect with me
 <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="kalutu daniel" /></a>
 <a href="mailto:kalutudaniel@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="kalutu daniel" /></a>
-<a href="https://twitter.com/kalutudaniel" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/kalutu_daniel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="kalutu daniel Twitter" />
 </a>
 
