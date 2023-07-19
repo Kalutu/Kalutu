@@ -1,4 +1,4 @@
-# Hello, Kalutu Here 
+## Hello, Kalutu Here 
 👋 Full Stack Developer from Kenya!
 
 👨‍💻 Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
@@ -7,10 +7,10 @@
 
 📫 How to reach me kalutudaniel@gmail.com, +254713118765
 
-## About
+### About me
 I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications.
 
-## Technologies
+### Technologies
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); grid-gap: 10px;">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50px" height="50px" /></a>
     <a href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50px" height="50px" /></a>
@@ -26,13 +26,13 @@ I am a passionate software developer with a strong background in computer scienc
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" /></a>
 </div>
 
-## GitHub Analytics
+### GitHub Analytics
  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=kalutu&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kalutu&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=kalutu&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalutu&layout=compact&langs_count=7&theme=dracula"/>
 
-## Connect with me
+### Connect with me
 <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="kalutu daniel" /></a>
 <a href="https://twitter.com/kalutu_daniel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="kalutu daniel Twitter" />
