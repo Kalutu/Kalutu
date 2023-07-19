@@ -24,7 +24,7 @@ I am a passionate software developer with a strong background in computer scienc
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px" /></a>
 </div>
 
-<h2>📈 <strong>GitHub Analytics:</strong></h2>  
+## GitHub Analytics
  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=kalutu&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kalutu&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=kalutu&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
