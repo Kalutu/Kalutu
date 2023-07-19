@@ -1,5 +1,7 @@
-# Hi 👋, Kalutu Here 
-👨‍💻 All of my projects are available <a href="https://kalutu-daniel.vercel.app/">here</a> 
+# Hello, Kalutu Here 
+👋 Full Stack Developer from Kenya!
+
+👨‍💻 Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
 
 💬 Ask me about Software Development and Computer Science
 
