@@ -12,7 +12,6 @@ I am a passionate software developer with a strong background in computer scienc
 
 ### Technologies
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); grid-gap: 10px;">
-    <!-- Existing technologies and languages -->
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="50px" height="50px" /></a>
     <a href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50px" height="50px" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50px" height="50px" /></a>
