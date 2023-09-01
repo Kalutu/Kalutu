@@ -28,6 +28,9 @@ I am a passionate software developer with a strong background in computer scienc
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" alt="MongoDB" width="50px" height="50px" />
     </a>
+     <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="60px" height="50px" />
+    </a>
 </div>
 
 ### GitHub Analytics
