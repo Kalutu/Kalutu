@@ -35,7 +35,6 @@ I am a passionate software developer with a strong background in computer scienc
 &nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50px" height="35px">](https://en.wikipedia.org/wiki/SQL)
 [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50px" height="50px">](https://www.java.com/)
-&nbsp;&nbsp;
 [<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="80px" height="40px">](https://www.python.org/)
 
 ### GitHub Analytics
