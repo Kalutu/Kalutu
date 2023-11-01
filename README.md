@@ -1,4 +1,5 @@
 ## Hello, Kalutu Here 
+ <img src="https://komarev.com/ghpvc/?username=Kalutu&style=flat-square&color=blue" alt=""/>
 👋 Full Stack Developer from Kenya!
 
 👨‍💻 Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
@@ -39,9 +40,9 @@ I am a passionate software developer with a strong background in computer scienc
 
 ### GitHub Analytics
  
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=kalutu&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kalutu&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=kalutu&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalutu&layout=compact&langs_count=7&theme=dracula"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Kalutu&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kalutu&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Kalutu&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalutu&layout=compact&langs_count=7&theme=dracula"/>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/kalutu-daniel/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="kalutu daniel" /></a>
