@@ -3,8 +3,6 @@
 
 👨‍💻 Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
 
- <img src="https://komarev.com/ghpvc/?username=Kalutu&style=flat-square&color=blue" alt=""/>
-
 💬 Ask me about Software Development and Computer Science
 
 📫 How to reach me kalutudaniel@gmail.com, +254713118765
