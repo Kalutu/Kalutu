@@ -1,14 +1,5 @@
 ## Hello, Kalutu Here 
-👋 Full Stack Developer from Kenya!
-
-👨‍💻 Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
-
-💬 Ask me about Software Development and Computer Science
-
-📫 How to reach me kalutudaniel@gmail.com, +254713118765
-
-### About me
-I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications.
+I am a passionate software developer with a strong background in computer science. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications. Visit my portfolio <a href="https://kalutu-daniel.vercel.app/">here</a> 
 
 ### GitHub Analytics
 <img width="500" src="https://streak-stats.demolab.com/?user=kalutu&theme=react" /> <img width="339" height="197" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalutu&layout=compact&langs_count=7&theme=dracula"/>
